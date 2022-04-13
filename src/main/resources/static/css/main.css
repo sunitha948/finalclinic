@@ -1,0 +1,57 @@
+@charset "ISO-8859-1";
+
+.icon {
+	color: #fff;
+}
+.login {
+	background-image: url("https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.index {
+	background-image: url("https://img.freepik.com/free-vector/patients-doctors-meeting-waiting-clinic-hall-hospital-interior-illustration-with-reception-person-wheelchair-visiting-doctor-office-medical-examination-consultation_74855-8496.jpg?w=2000");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.content {
+	margin : 100px 550px;
+}
+
+.index .content .btn
+{
+	padding:10px 20px;	
+	font-weight:800;
+	background:  midnightblue;
+	color:white;
+	font-size:30px;
+	letter-spacing:3px;
+	font-family:monospace;
+	width:480px;
+	}
+	
+.index .content .btn:hover
+{
+	background :purple;
+}
+
+
+.patient {
+	background-image: url("https://img.freepik.com/free-vector/group-doctors-standing-hospital-building-team-practitioners-ambulance-car_74855-14034.jpg?w=2000");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.admin {
+	background-image: url("https://img.freepik.com/free-vector/diverse-crowd-people-different-ages-races_74855-5235.jpg?w=2000");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+h1 {
+	font-family: 'Anton', sans-serif;
+}
+i {
+	color: #000000;
+}
